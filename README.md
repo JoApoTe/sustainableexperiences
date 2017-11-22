@@ -1,4 +1,4 @@
-# sustainable experiences 4 a better life
+# Sustainable experiences 4 a better life
 
 ### WHAT:
 **Dareit** -- A digital platform promoting sustainable living in general and sustainable tourism in particular 

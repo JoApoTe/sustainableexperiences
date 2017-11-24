@@ -28,6 +28,6 @@ This is a training school exercise. See https://csik.github.io/CostPitch/ for mo
 
 The website (github page) supporting this venture is at https://joapote.github.io/sustainableexperiences/ 
 
-== Some important outcome can be found at == 
-https://joapote.github.io/sustainableexperiences/Manifesto.docx
+== Some important outcome can be found in the  == 
+[link](https://joapote.github.io/sustainableexperiences/Manifesto.docx)
 
